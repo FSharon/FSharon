@@ -1,7 +1,7 @@
 ### Hello! I'm Frizzy. 👋
 
 ```
-Student
+Human
 TWICE Stan 🍭
 and pru kanger :'
 ```
