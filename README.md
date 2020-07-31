@@ -1,9 +1,9 @@
 ### Hello! I'm Frizzy. 👋
 
 ```
-    Student
-    TWICE Stan
-    and pru kanging code :'
+Student
+TWICE Stan 🍭
+and pru kanger :'
 ```
 
 ### TO-DO:
