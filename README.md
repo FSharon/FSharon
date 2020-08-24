@@ -8,7 +8,5 @@ TWICE Stan 🍭
 and pru kanger :'
 ```
 
-### TO-DO:
-- [ ] UAS 
-- [ ] Stream TWICE concert 😍
+### GOAL:
 - [ ] Lulus kuliah :cry:
