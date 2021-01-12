@@ -1,10 +1,10 @@
 ### Hello! I'm Frizzy. 👋
 
-<img src="https://telegra.ph/file/faf2132ad7b8ad41f3d85.mp4"/>
+<img src="https://i.ibb.co/JQRzCMs/ezgif-4-7b7f4fa3f785.gif"/>
 
 ### About me
 - 🌱 I’m currently learning Python, Kotlin, Javascript, C++, C
-- 🐧 20 y.0
+- 🐧 20 y.o
 - 🍭 ONCE
 
 ### Github Stats
@@ -16,6 +16,6 @@
 ### GOAL:
 - [ ] Lulus kuliah :cry:
 
-### Thank you for visiting my page.
+### Thanks for visiting my page.
 
-<img src="https://imgur.com/AmbcMau"/>
+<img src="https://i.ibb.co/ZxhtdQV/ezgif-com-gif-maker.gif"/>
