@@ -1,6 +1,6 @@
 ### Hello! I'm Frizzy. 👋
 
-<img src="https://i.ibb.co/JQRzCMs/ezgif-4-7b7f4fa3f785.gif"/>
+<img src="https://i.ibb.co/WtKbmc4/ezgif-4-98a57653e1dd.gif"/>
 
 ### About me
 - 🌱 I’m currently learning Python, Kotlin, Javascript, C++, C
@@ -18,4 +18,4 @@
 
 ### Thanks for visiting my page.
 
-<img src="https://i.ibb.co/ZxhtdQV/ezgif-com-gif-maker.gif"/>
+<img src="https://i.ibb.co/YZkDKbR/ezgif-4-9d3ed2dfc10b.gif"/>
